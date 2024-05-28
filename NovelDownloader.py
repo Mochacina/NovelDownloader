@@ -114,8 +114,8 @@ def SecondInterface():
                 print(TransData)
             
 
-client_id = "jyILIHGE11V0S0zdyHyS" # 개발자센터에서 발급받은 Client ID 값
-client_secret = "Owdb346w9m" # 개발자센터에서 발급받은 Client Secret 값
+client_id = "" # 개발자센터에서 발급받은 Client ID 값
+client_secret = "" # 개발자센터에서 발급받은 Client Secret 값
 
 
 TransText = "반갑습니다"
